@@ -47,7 +47,10 @@ Real-world-application using python/
 │   │   └── category_tree.py
 │   ├── recommendation_engine.py
 │   └── main.py
+└──DELIVERABLE1_INSTRUCTIONS.md
+└──deliverable1_readme.md
 └── README.md
+
 ```
 
 ## Phase 1 Deliverables
