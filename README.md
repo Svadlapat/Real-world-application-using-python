@@ -38,7 +38,7 @@ The chosen application is a sophisticated recommendation engine for an e-commerc
 
 ## Project Structure
 ```
-DataStructures_Project/
+Real-world-application using python/
 ├── src/
 │   ├── data_structures/
 │   │   ├── hash_table.py
@@ -47,9 +47,6 @@ DataStructures_Project/
 │   │   └── category_tree.py
 │   ├── recommendation_engine.py
 │   └── main.py
-├── tests/
-├── docs/
-│   └── deliverable1_report.md
 └── README.md
 ```
 
@@ -64,7 +61,6 @@ DataStructures_Project/
 1. Clone or download the project
 2. Install Python 3.8+
 3. Run `python src/main.py` to see the demonstration
-4. Review the report in `docs/deliverable1_report.md`
 
 ## Future Phases
 - Phase 2: Proof of concept implementation
